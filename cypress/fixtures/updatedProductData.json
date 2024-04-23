@@ -1,0 +1,9 @@
+{
+    "name": "Pizza Cheese and Beef",
+    "price": 20,
+    "image":"img/001.jpg",
+    "brand": "Pizza Hut",
+    "countInStock":10,
+    "category":"Fast food",
+    "description":"Sample description"
+}
